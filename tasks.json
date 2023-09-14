@@ -1,7 +1,22 @@
 [
   {
-    "title": "Do Homework",
+    "title": "Task 1",
     "description": "Homework for CSCI 656",
     "status": "completed"
+  },
+  {
+    "title": "Task 2",
+    "description": "Complete the Node.js project",
+    "status": "not completed"
+  },
+  {
+    "title": "Task 3",
+    "description": "Read a book for 30 minutes",
+    "status": "not completed"
+  },
+  {
+    "title": "Task 4",
+    "description": "Buy groceries",
+    "status": "not completed"
   }
 ]
