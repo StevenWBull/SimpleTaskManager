@@ -12,6 +12,7 @@ function displayMenu() {
     console.log('2. Add a new task');
     console.log('3. Mark a task as completed');
     console.log('4. Exit');
+    console.log('9. Repeat Menu');
 }
 
 displayMenu();
@@ -39,6 +40,9 @@ rl.on('line', (input) => {
             break;
         case '4':
             rl.close();
+            break;
+        case '9':
+            displayMenu();
             break;
         default:
             console.log('Invalid option.');

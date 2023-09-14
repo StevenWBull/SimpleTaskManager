@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "title": "Do Homework",
+    "description": "Homework for CSCI 656",
+    "status": "completed"
+  }
+]
