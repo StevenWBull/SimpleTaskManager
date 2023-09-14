@@ -1,8 +1,11 @@
 # SimpleTaskManager
 
 ## Start application with:
-    - node index.js
-    - npm start
+    node index.js
+
+    OR
+    
+    npm start
 
 ## Options:
     1. List all tasks
