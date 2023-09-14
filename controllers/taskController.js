@@ -16,7 +16,8 @@ function getAllTasks(callback) {
             }
         }); 
     } catch (fileReadError) {
-        callback(fileReadError, null);
+        callback(fileReadError + '\nExiting...', null);
+        process.exit(1);
     }
 }
 
