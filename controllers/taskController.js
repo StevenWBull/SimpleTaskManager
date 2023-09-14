@@ -1,5 +1,5 @@
 const fs = require('fs');
-// const tasksFilePath = './tasks.json';
+const tasksFilePath = './tasks.json';
 
 function getAllTasks(callback) {
     try{
