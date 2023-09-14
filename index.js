@@ -10,7 +10,7 @@ function displayMenu() {
     console.log('\nOptions:');
     console.log('1. List all tasks');
     console.log('2. Add a new task');
-    console.log('3. Mark a task as completed');
+    console.log('3. Mark a task as completed (case sensitive)');
     console.log('4. Exit');
     console.log('9. Repeat Menu');
 }
