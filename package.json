@@ -1,0 +1,11 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "Simple Task Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Steven Bull",
+  "license": "MIT"
+}
