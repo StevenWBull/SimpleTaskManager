@@ -4,6 +4,7 @@
   "description": "Simple Task Manager",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "author": "Steven Bull",
